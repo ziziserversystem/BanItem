@@ -8,7 +8,7 @@ load: POSTWORLD
 website: https://github.com/LDX-MCPE/BanItem
 commands:
   banitem:
-    description: §8<OP>BanItem
+    description: §8<OP> BanItem
     permission: banitem.command.banitem
     usage: /banitem <ban/unban/list/report> [ID:Damage]
 permissions:
